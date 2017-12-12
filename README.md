@@ -2,8 +2,9 @@
 
 This is an android application using the accelerometer in the phone to measure the user's acceleration.
 
-Getting Started
+# Getting Started
 
-Download the repository.
-Open the project in Android Studio. 
-Run the application on your android phone through a usb cable connected from your computer.
+1. Download the repository.
+2. Open the project in Android Studio. 
+3. Connect your android phone with your computer through a usb cable.
+4. Run the applicaton MainActivity
